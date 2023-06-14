@@ -79,7 +79,7 @@ pipeline {
 
         }
         failure {
-
+        /*Se agrega un comentario al archivo Jenkinsfile*/
         } */
     }
 }
